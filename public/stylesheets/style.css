@@ -27,6 +27,7 @@ html,body{
 
   .active>a {
     color: gray !important;;
+	padding-bottom: 1em;
   }
 
   .home {
@@ -38,6 +39,10 @@ html,body{
   .tag {
  	font-family: "Papyrus", cursive; 
 	font-size: 3em;
+  }
+
+  .clist li {
+  	list-style: none;
   }
 
 .typewriter {
